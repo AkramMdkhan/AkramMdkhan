@@ -1,24 +1,21 @@
 <div align="center">
 
-<img src="./Github-banner.png" width="100%" alt="Akram Md Khan - MERN Stack Developer">
-
-</div>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:1d4ed8,100:7c3aed&height=190&section=header&text=Akram%20Md%20Khan&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
+<img src="./Github-banner.png" width="100%" alt="Akram Mohammad Khan - MERN Stack Developer">
 
 # 👋 Hi, I'm Akram Mohammad Khan
 
 ### 💻 MERN Stack Developer
 
-**Building modern web experiences • Learning by building • Growing every day**
+**I build fast, responsive and clean web apps with Next.js, React, TypeScript and MongoDB.**
 
-<a href="https://github.com/AkramMdkhan">
-  <img src="https://img.shields.io/badge/GitHub-AkramMdkhan-181717?style=for-the-badge&logo=github" />
+<a href="https://akram-mohammad-khan-portfolio.vercel.app">
+  <img src="https://img.shields.io/badge/Portfolio-Live-7c3aed?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 <a href="https://github.com/AkramMdkhan?tab=repositories">
-  <img src="https://img.shields.io/badge/Repositories-View-2563eb?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Repositories-View-2563eb?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/akrammdkhan">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 </div>
@@ -27,16 +24,14 @@
 
 ## 👨‍💻 About Me
 
-I'm **Akram Mohammad Khan**, a developer currently focused on learning and building with the **MERN stack**.
-
-I enjoy turning ideas into responsive, clean and user-friendly web applications. My current focus is strengthening my JavaScript fundamentals, learning React and TypeScript, and gradually building full-stack applications.
+I'm a MERN stack developer who enjoys turning designs and ideas into responsive, clean and user-friendly web applications. I build full-stack projects with authentication, protected routes, REST APIs and database integration, and I deploy everything live.
 
 ```javascript
 const akram = {
   name: "Akram Mohammad Khan",
   role: "MERN Stack Developer",
-  focus: "Full-Stack Web Development",
-  currentlyLearning: ["React", "TypeScript", "Node.js", "MongoDB"],
+  focus: "Responsive, full-stack web apps",
+  stack: ["Next.js", "React", "TypeScript", "Node.js", "MongoDB"],
   mindset: "Build • Solve • Learn • Repeat"
 };
 ```
@@ -45,45 +40,75 @@ const akram = {
 
 ## 🛠️ Tech Stack
 
-### Frontend
+**Frontend**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
 </p>
 
-### Backend & Database
+**Backend & Database**
 
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
 </p>
 
-### Languages & Tools
+**Tools & Deployment**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,git,github,vscode,npm" />
+  <img src="https://skillicons.dev/icons?i=git,github,vercel,figma,vscode,npm" />
 </p>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🌐 Portfolio Website
+### 🧑‍💼 Portfolio Website
 
-A simple responsive portfolio website built while practicing frontend development.
+My personal portfolio with animated sections, project detail pages and a fully responsive layout.
 
-**Tech:** HTML • CSS
+**Tech:** Next.js • TypeScript • Tailwind CSS • Framer Motion
 
-🔗 [View Repository](https://github.com/AkramMdkhan/B-14-Portfolio-Website-Mary-Hardy-)
+🔗 [Live Site](https://akram-mohammad-khan-portfolio.vercel.app) • [Repository](https://github.com/AkramMdkhan/akram-mohammad-khan-portfolio)
 
 ---
 
-### 🎤 Dev Conf Website
+### 🤝 ShebaBondhu (Social Development Events Platform)
 
-A responsive conference-style website created as a frontend assignment.
+A community events platform with a separate client and server, authentication and a protected experience.
 
-**Tech:** HTML • CSS
+**Tech:** Next.js • TypeScript • Express • MongoDB • BetterAuth • JWT
 
-🔗 [View Repository](https://github.com/AkramMdkhan/Dev-Conf-PH-hero-Assignment-1)
+🔗 [Live Site](https://shebabondhu-client.vercel.app) • [Client Repository](https://github.com/AkramMdkhan/shebabondhu-client)
+
+---
+
+### 🛒 BazarDor (বাজার দর)
+
+A grocery price tracker with price movers, category pages, a protected product details page and email, Google and GitHub login.
+
+**Tech:** Next.js • TypeScript • Tailwind CSS • DaisyUI • Better Auth • MongoDB
+
+🔗 [Live Site](https://assignment-seven-bazardor.vercel.app) • [Repository](https://github.com/AkramMdkhan/assignment-seven-bazardor)
+
+---
+
+### 🏋️ Fit Log
+
+A workout library app converted from a Figma design, with a workout plan, saved list, search and sorting.
+
+**Tech:** Next.js • TypeScript • Tailwind CSS • DaisyUI • React Compiler
+
+🔗 [Live Site](https://b-14-assignment-6-fit-log-xi.vercel.app) • [Repository](https://github.com/AkramMdkhan/B-14-Assignment-6-Fit-Log)
+
+---
+
+### 🧩 DevStack
+
+A site to explore and compare dev technologies and build your own custom stack.
+
+**Tech:** React • TypeScript • Vite • Tailwind CSS • React Toastify
+
+🔗 [Live Site](https://brilliant-chaja-01e52a.netlify.app) • [Repository](https://github.com/AkramMdkhan/B-14-Assignment-5-Dev-Stack)
 
 ---
 
@@ -99,86 +124,18 @@ A responsive conference-style website created as a frontend assignment.
 
 ---
 
-## 🔥 Contribution Streak
+## 📫 Let's Connect
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=AkramMdkhan&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-## 📈 GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AkramMdkhan&theme=tokyo-night&hide_border=true" width="95%"/>
-
-</div>
-
----
-
-## 📚 Currently Learning
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,mongodb" />
-</p>
-
-- ⚛️ React & component-based development
-- 🟦 TypeScript fundamentals
-- 🟢 Node.js & Express
-- 🍃 MongoDB
-- 🔗 Building full-stack MERN applications
-- 🧩 Improving JavaScript problem-solving skills
-
----
-
-## 🎯 My Goals
-
-- [x] Build responsive HTML & CSS websites
-- [x] Practice JavaScript fundamentals
-- [x] Learn ES6+ concepts
-- [x] Start TypeScript
-- [ ] Build advanced React applications
-- [ ] Build complete MERN applications
-- [ ] Deploy production-ready projects
-- [ ] Become a professional Full-Stack Developer
-
----
-
-## 💡 Developer Mindset
-
-> **Build. Solve. Learn. Repeat. 🚀**
-
-I believe the best way to improve as a developer is to keep building, make mistakes, understand them, and build again.
-
----
-
-## 🤝 Let's Connect
-
-<div align="center">
-
-<a href="https://github.com/AkramMdkhan">
-<img src="https://img.shields.io/badge/GitHub-AkramMdkhan-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<!-- Add your LinkedIn when ready -->
-<!--
-<a href="https://www.linkedin.com/in/YOUR_USERNAME">
+<a href="https://www.linkedin.com/in/akrammdkhan">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
--->
-
-</div>
-
----
-
-<div align="center">
+<a href="akrammdkhan10@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-ea4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
 ### ⭐ Thanks for visiting my profile!
-
-**Always learning. Always building. 🚀**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:2563eb,100:020617&height=100&section=footer" width="100%"/>
 
