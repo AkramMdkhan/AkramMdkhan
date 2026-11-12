@@ -6,7 +6,7 @@
 
 ### 💻 MERN Stack Developer
 
-**I build fast, responsive and clean web apps with Next.js, React, TypeScript and MongoDB.**
+**I build full-stack web apps & responsive with Next.js, React, TypeScript, Node.js and MongoDB.**
 
 <a href="https://akram-mohammad-khan-portfolio.vercel.app">
   <img src="https://img.shields.io/badge/Portfolio-Live-7c3aed?style=for-the-badge&logo=vercel&logoColor=white" />
