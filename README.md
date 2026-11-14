@@ -120,7 +120,7 @@ A site to explore and compare dev technologies and build your own custom stack.
 
 **Tech:** React • TypeScript • Vite • Tailwind CSS • React Toastify
 
-🔗 [Live Site](https://brilliant-chaja-01e52a.netlify.app) • [Repository](https://github.com/AkramMdkhan/B-14-Assignment-5-Dev-Stack)
+🔗 [Live Site](https://dev-stack-by-akram.netlify.app) • [Repository](https://github.com/AkramMdkhan/B-14-Assignment-5-Dev-Stack)
 
 ---
 
