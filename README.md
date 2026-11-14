@@ -89,7 +89,8 @@ A community events platform with a separate client and server, authentication an
 
 **Tech:** Next.js • TypeScript • Express • MongoDB • BetterAuth • JWT
 
-🔗 [Live Site](https://shebabondhu-client.vercel.app) • [Client Repository](https://github.com/AkramMdkhan/shebabondhu-client)
+🔗 [Live Site](https://shebabondhu-client.vercel.app) • [Client Repository](https://github.com/AkramMdkhan/shebabondhu-client) 
+                                                        [Server-Repository](https://github.com/AkramMdkhan/shebabondhu-server)
                                                          
 
 ---
