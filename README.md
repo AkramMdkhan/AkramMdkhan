@@ -6,7 +6,9 @@
 
 ### 💻 MERN Stack Developer
 
-**I build full-stack web apps & responsive with Next.js, React, TypeScript, Node.js and MongoDB.**
+**I build full-stack web apps & responsive websites with Next.js, React, TypeScript, Node.js and MongoDB.**
+
+📍 Your City, Country &nbsp;•&nbsp; 📧 akrammdkhan10@gmail.com
 
 <a href="https://akram-mohammad-khan-portfolio.vercel.app">
   <img src="https://img.shields.io/badge/Portfolio-Live-7c3aed?style=for-the-badge&logo=vercel&logoColor=white" />
@@ -35,6 +37,15 @@ const akram = {
   mindset: "Build • Solve • Learn • Repeat"
 };
 ```
+
+---
+
+## 🌱 What I'm Up To
+
+- 🔭 Building full-stack projects with Next.js, Express and MongoDB
+- 📚 Learning more about authentication, JWT and API design
+- 🧑‍💻 Working on my portfolio and freelance web development gigs
+- 🎯 Looking for opportunities to build real-world web apps
 
 ---
 
@@ -79,6 +90,7 @@ A community events platform with a separate client and server, authentication an
 **Tech:** Next.js • TypeScript • Express • MongoDB • BetterAuth • JWT
 
 🔗 [Live Site](https://shebabondhu-client.vercel.app) • [Client Repository](https://github.com/AkramMdkhan/shebabondhu-client)
+                                                         
 
 ---
 
@@ -120,6 +132,10 @@ A site to explore and compare dev technologies and build your own custom stack.
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkramMdkhan&layout=compact&theme=tokyonight&hide_border=true" />
 
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=AkramMdkhan&theme=tokyonight&hide_border=true" />
+
 </div>
 
 ---
@@ -131,7 +147,7 @@ A site to explore and compare dev technologies and build your own custom stack.
 <a href="https://www.linkedin.com/in/akrammdkhan">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://mail.google.com/mail/?view=cm&to=akrammdkhan10@gmail.com">
+<a href="mailto:akrammdkhan10@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact-ea4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
