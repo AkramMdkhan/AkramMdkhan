@@ -8,7 +8,7 @@
 
 **I build full-stack web apps & responsive websites with Next.js, React, TypeScript, Node.js and MongoDB.**
 
-📍 Your City, Country &nbsp;•&nbsp; 📧 akrammdkhan10@gmail.com
+📍 Dhaka, Bangladesh &nbsp;•&nbsp; 📧 akrammdkhan10@gmail.com
 
 <a href="https://akram-mohammad-khan-portfolio.vercel.app">
   <img src="https://img.shields.io/badge/Portfolio-Live-7c3aed?style=for-the-badge&logo=vercel&logoColor=white" />
